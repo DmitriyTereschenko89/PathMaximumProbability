@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathMaximumProbability", "PathMaximumProbability.csproj", "{0857C420-2A03-4984-B59F-B6890EB87CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0857C420-2A03-4984-B59F-B6890EB87CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0857C420-2A03-4984-B59F-B6890EB87CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0857C420-2A03-4984-B59F-B6890EB87CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0857C420-2A03-4984-B59F-B6890EB87CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B495421-964E-4554-A6D7-E46057B8032D}
+	EndGlobalSection
+EndGlobal
